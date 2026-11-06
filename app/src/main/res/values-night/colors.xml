@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#101012</color>
+    <color name="surface">#101012</color>
+    <color name="surface_alt">#1A1A1D</color>
+    <color name="key">#1E1E22</color>
+    <color name="accent">#FF4655</color>
+    <color name="accent_soft">#2A1216</color>
+    <color name="text_primary">#F2F2F3</color>
+    <color name="text_secondary">#9A9AA0</color>
+    <color name="divider">#26262A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="avatar_text">#FF6B78</color>
+</resources>
